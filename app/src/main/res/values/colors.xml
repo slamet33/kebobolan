@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff8297</color>
+    <color name="colorPrimaryDark">#c95169</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="border_color">#D3D3D3</color>
+    <color name="colorSecondaryText">#aab</color>
+
+    <string name="date_ex">Sat, 28 Sep 2018</string>
+    <string name="ex_club">Manchester United</string>
+    <string name="ex_score">3</string>
+    <string name="vesus_text">vs</string>
+    <string name="title_activity_detail">Result</string>
+    <string name="idEvent">idEvent</string>
+    <string name="week">Week</string>
+    <string name="strip">_</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="strip_str">-</string>
+    <string name="shots">Shots</string>
+    <string name="match_details">Match Details</string>
+    <string name="goals">Goals</string>
+    <string name="score">Score</string>
+    <string name="goalkeeper">Goalkeeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitutes</string>
+    <string name="cards">Cards</string>
+    <string name="last_match">Last Match</string>
+</resources>

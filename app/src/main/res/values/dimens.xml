@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="small_margin">5dp</dimen>
+    <dimen name="text_detail_size">11sp</dimen>
+    <dimen name="text_heading">18sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="score_size">100dp</dimen>
+    <dimen name="margin_cardview">10dp</dimen>
+    <dimen name="verylarge_txt">25sp</dimen>
+    <dimen name="zeroDP">0dp</dimen>
+    <dimen name="border_size">2dp</dimen>
+    <dimen name="card_size">20dp</dimen>
+    <dimen name="ball_size">25dp</dimen>
+    <dimen name="padding_layout">10dp</dimen>
+    <dimen name="header_3">18sp</dimen>
+</resources>

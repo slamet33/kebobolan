@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kebobolan</string>
+    <string name="spinner_nothing_selected">Nothing Selected</string>
+    <string-array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_match">Favorite</string>
+    <string name="remove">Remove to Favorite</string>
+    <string name="added">Added to Favorite</string>
+    <string name="er">Error Get Data</string>
+    <string name="adas">api failure</string>
+    <string name="space"/>
+    <string name="title_activity_detail_team">Team Detail</string>
+    <string name="title_activity_detail_player">Player Detail</string>
+    <string name="weight_kg">Weight (Kg)</string>
+    <string name="height_m">Height (m)</string>
+    <string name="title_search_match_activity">Search Match</string>
+    <string name="title_search_team_activity">Search Team</string>
+    <string name="search_match">Search Match</string>
+    <string name="search">Search</string>
+</resources>
